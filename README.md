@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alireza5055
 - 👀 I’m interested in reinforcement learning and probabilistic decision models 
 - 🌱 I’m currently learning model predictive control, markov chains
-- 💞️ I’m looking to collaborate on controls projects 
+- 💞️ I’m looking to collaborate on control and robotics projects 
 - 📫 How to reach me: hobubatyalireza@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
